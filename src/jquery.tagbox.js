@@ -23,7 +23,7 @@
       BKSP   = 8,
       ESC    = 27,
       SPACE  = 32,
-      TAB    = 8,
+      TAB    = 20,
       DEL    = 46;
 
   var CTRLKey = 17;
